@@ -1,6 +1,7 @@
 #SERGIO IBAÑEZ MONTIEL GRUPO 301
 #SARAHI ANGELES MARTINEZ 
 #SAHORY SHERLYN MONI AGUSTIN :)
+#PAULINA MARISOL HERRERA MIRANDA
 import mysql.connector
 import tkinter as tk
 from tkinter import messagebox
