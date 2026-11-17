@@ -1,4 +1,4 @@
-
+#SERGIO IBAÑEZ MONTIEL GRUPO 301
 import mysql.connector
 import tkinter as tk
 from tkinter import messagebox
