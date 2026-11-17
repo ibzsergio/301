@@ -6,7 +6,7 @@
 import mysql.connector
 import tkinter as tk
 from tkinter import messagebox
-
+#ERIK JAIMES GARCIA 
 def conectar():
     return mysql.connector.connect(
         host="localhost",
