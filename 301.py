@@ -3,7 +3,7 @@
 #SAHORY SHERLYN MONI AGUSTIN :)
 #PAULINA MARISOL HERRERA MIRANDA
 #LESLIE ABIGAIL SEDEÑO ESPINOSA <3
-import mysql.connector
+import mysql.connector # type: ignore
 import tkinter as tk
 from tkinter import messagebox
 #ERIK JAIMES GARCIA 
@@ -85,4 +85,5 @@ tk.Button(ventana, text="Actualizar", command=actualizar).grid(row=6, column=0, 
 tk.Button(ventana, text="Eliminar", command=eliminar).grid(row=6, column=1, pady=4)
 ventana.mainloop() 
 #Modificado por Valentina Reyes Gutierrez
-# Modificado por Dafne Regina Gomez Flores
+# Modificado por Dafne Regina Gomez FloresS
+# Modificado por Uriel Vazquez Velez
