@@ -14,7 +14,7 @@ def conectar():
         password="",
         database="302",
     ) 
- 
+ #Fernanda Perez Nuñez 
 def guardar():
     con = conectar()
     cur = con.cursor()
